@@ -7,10 +7,10 @@
 # men der skal oprettes en feed med samme navn på adafruit.io
 
 credentials = {
-    'ssid' : 'Alexanders iPhone',
-    'password' : '6gjym0rc6mrk5',
+    'ssid' : '',
+    'password' : '',
     'ADAFRUIT_IO_URL' : b'io.adafruit.com',
-    'ADAFRUIT_USERNAME' : b'GhostriderDK',
-    'ADAFRUIT_IO_KEY' : b'aio_RTom21hR63TqEjAuhpGFIzDebxnf',
+    'ADAFRUIT_USERNAME' : b'',
+    'ADAFRUIT_IO_KEY' : b'',
     'ADAFRUIT_IO_FEEDNAME' : b'ESP32feed'
     }
